@@ -1,6 +1,3 @@
 source "http://rubygems.org"
 
-gem "rack"
 gem "sinatra"
-gem "rake"
-gem "thin"
